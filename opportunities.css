@@ -329,7 +329,6 @@ dropdown input:checked ~ ul{
 
 .wrapper {
     margin: 0 auto;
-    border: 2px solid purple;
     height: 200px;
     width: 953px;
 }
@@ -365,7 +364,6 @@ dropdown input:checked ~ ul{
     justify-content: space-between;
     column-gap: 20px;
     row-gap: 20px;
-    border: 2px solid yellow;
     margin: 0 auto;
     width: 945px;
     
@@ -399,7 +397,6 @@ dropdown input:checked ~ ul{
     color:#4a4a4a;
     align-items: center;
     justify-content: center;
-    border: 2px solid blue;
     flex: 1;
 }
 
@@ -542,7 +539,6 @@ dropdown input:checked ~ ul{
     position: relative;
     align-items: center;
     justify-content: center;
-    border: 2px solid green;
     margin-top: 100px;
 
 }
@@ -572,7 +568,6 @@ dropdown input:checked ~ ul{
     width: 320px;
     color:#4a4a4a;
     justify-content: space-between;
-    border: 2px solid red;
 }
 
 .socials img {
